@@ -1,0 +1,11 @@
+{
+    "window.zoomLevel": 0,
+    "terminal.integrated.rendererType": "dom",
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "files.associations": {
+        
+        "*.html":"html"
+    },
+    "emmet.includeLanguages": {"javascript": "html"},
+    "emmet.triggerExpansionOnTab":true
+}
